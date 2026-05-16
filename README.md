@@ -143,20 +143,6 @@ challenge-motiva-verde-sprint1/
 
 ---
 
-## 11. Status da Sprint 1
-
-| Item | Status |
-|---|---|
-| Definição do problema | Concluído |
-| Definição da solução | Concluído |
-| Usuário principal | Concluído |
-| Requisitos funcionais e não funcionais | Concluído |
-| Protótipo navegável no Figma | Concluído |
-| README do projeto | Concluído |
-| Link do protótipo no repositório | Concluído |
-
----
-
-## 12. Próximos passos
+## 11. Próximos passos
 
 Na Sprint 2, o projeto poderá será desenvolvido em React Native/Expo.
