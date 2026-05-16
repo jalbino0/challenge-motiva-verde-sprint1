@@ -138,8 +138,7 @@ Para a Sprint 1, o foco está no protótipo navegável e no planejamento da solu
 ```txt
 challenge-motiva-verde-sprint1/
 ├── README.md
-├── REQUISITOS.md
-└── entrega.txt
+└── REQUISITOS.md
 ```
 
 ---
